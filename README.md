@@ -18,12 +18,14 @@ This is a scraper project to extract skins of [NameMC](https://namemc.com) and h
    python3 -m venv virtual_env_name
    ```
 
-4. Activate the environment.
+3. Activate the environment.
    ```
    source virtual_env_name/bin/activate
    ```
    
-5. Install packages.
+4. Install packages.
    ```
    pip install -r requirements.txt
    ```
+
+5. Use scrapers. (I write comments to guide you in using the code)
