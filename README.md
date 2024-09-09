@@ -8,7 +8,7 @@ This is a scraper project to extract skins of https://namemc.com and https://www
 - Selenium (For Javascript rendering websites)
 - Requests
 - Beautiful Soup
-- TextRazor NLP API (For generating tags and titles)
+- [TextRazor](https://www.textrazor.com) (A NLP Api for generating tags and titles)
 
 ## Getting Started
 1. Clone or download the project.
