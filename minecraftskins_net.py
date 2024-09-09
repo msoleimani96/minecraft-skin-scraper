@@ -4,7 +4,7 @@ import base64
 
 url = 'https://www.minecraftskins.net/category/'
 
-# all of the topics are movies, tv, games, people, fantasy, mobs, other
+# topics are movies, tv, games, people, fantasy, mobs, other
 topics = ['mobs']
 
 for t in topics:
