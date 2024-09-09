@@ -1,7 +1,7 @@
 
 # Minecraft Skin Scraper
 
-This is a scraper project to extract skins of https://namemc.com and https://www.minecraftskins.net websites.
+This is a scraper project to extract skins of [NameMC](https://namemc.com) and https://www.minecraftskins.net websites.
 
 ## Technologies:
 - Python
