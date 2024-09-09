@@ -12,7 +12,7 @@ This is a scraper project to extract skins of https://namemc.com and https://www
 ## Getting Started
 1. Clone or download the project.
    
-2. First you need to setup a virtual environment.
+2. Create a virtual environment.
 `python3 -m venv virtual_env_name`
 
 3. Activate the environment.
