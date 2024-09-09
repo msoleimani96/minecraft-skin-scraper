@@ -13,14 +13,16 @@ This is a scraper project to extract skins of https://namemc.com and https://www
 1. Clone or download the project.
    
 2. Create a virtual environment.
-`python3 -m venv virtual_env_name`
+   ```
+   python3 -m venv virtual_env_name
+   ```
 
-3. Activate the environment.
+4. Activate the environment.
    ```
    source virtual_env_name/bin/activate
    ```
    
-4. Install packages.
+5. Install packages.
    ```
    pip install -r requirements.txt
    ```
