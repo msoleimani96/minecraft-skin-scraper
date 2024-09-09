@@ -4,6 +4,7 @@ import requests
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
+# Here you specify the tag you are looking for to extract skins of it.
 skin_tag = 'deadpool'
 
 url = 'https://namemc.com/minecraft-skins/tag/' + skin_tag
