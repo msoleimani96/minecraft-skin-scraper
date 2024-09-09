@@ -4,7 +4,7 @@ import requests
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
-skin_tag = 'wolverine'
+skin_tag = 'deadpool'
 
 url = 'https://namemc.com/minecraft-skins/tag/' + skin_tag
 
