@@ -10,15 +10,17 @@ This is a scraper project to extract skins of https://namemc.com and https://www
 - Beautiful Soup
 
 ## Getting Started
-1. First you need to setup a virtual environment.
+1. Clone or download the project.
+   
+2. First you need to setup a virtual environment.
 `python3 -m venv virtual_env_name`
 
-2. Activate the environment.
+3. Activate the environment.
    ```
    source virtual_env_name/bin/activate
    ```
    
-3. Install packages.
+4. Install packages.
    ```
    pip install -r requirements.txt
    ```
